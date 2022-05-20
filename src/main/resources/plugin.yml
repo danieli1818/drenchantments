@@ -1,0 +1,5 @@
+name: DREnchantments
+version: ${project.version}
+main: drenchantments.DREnchantments
+authors: [DanielRottner]
+description: DREnchantments Plugin For Custom Enchantments.
